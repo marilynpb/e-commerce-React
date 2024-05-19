@@ -1,0 +1,40 @@
+.logo{
+    width: 60px;
+}
+
+.carrito{
+    height: 25px;
+    width: 25px;
+}
+
+.btn-buscar{
+    background-color: rgb(250, 205, 211);
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border: none;
+}
+
+.navbar{
+    background-color: rgb(248, 246, 246);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.dropdown-toggle:hover{
+    background-color: aliceblue;
+}
+
+.dropdown-toggle{
+    border: none;
+}
+
+.dropdown-toggle:focus {
+    background-color: white;
+}   
+
+.buscador{
+    background-color: rgb(250, 205, 211);
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.title{
+    font-size: 24px;
+}
